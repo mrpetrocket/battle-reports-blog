@@ -1,5 +1,7 @@
 author: mrpetrocket
 baseurl: /battle-reports-blog
 description: How to lose a rocket war in the desert.
+plugins:
+  - jemoji
 theme: minima
 title: Highfleet Battle Reports
