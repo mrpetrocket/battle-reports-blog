@@ -1,0 +1,4 @@
+I'm safe from the enemy strike group and have even made progress north. My next objective is to regroup in (TODO city) and strike the enemy tactical group in (TODO city, Bethel iirc?). This group is important because it has the range to launch air strikes against me if I try to take the fleet base in (TODO city, Zoba?) I believe that the tactical groups have less front-up firepower
+
+maybe:
+Carrier from squadron 2 flew as far as it could. Then a tanker from squadron 1 came out to refuel it and bring it home. The squadrons are united as the vanguard. Next I will take that NE city, form up a big strike force centered around my Kormoran and go blast the enemy aircraft carrier.
