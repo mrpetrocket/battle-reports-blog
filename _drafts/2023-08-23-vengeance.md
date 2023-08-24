@@ -34,3 +34,13 @@ Arzamas' planes are now exhausted. Its cruise missile tubes are empty. And it is
 They have no idea that my main force is behind them. I have them exactly where I want them.
 
 Probably: launch cruise missile salvo and hope for a speed decrease. Maybe lead the raiders in a circle so that Arzamas comes to us. Get into artillery range and let the Sevastopol show them the might of the Romani Empire.
+
+Arzamas is actually fairly far away at this point.
+Scout plane duels. After my initial victory before, I lose two planes but at least I keep an eye on what Arzamas is up to.
+I launch four missiles. One tracks my own plane and flies off into the desert. Two are shot down by PD. Only one hits. I didn't see any visible donuts on the enemy; those things blow huge holes but I don't know what mine did.
+Arzamas touches down for repairs.
+Arzamas detects me and sends out a message. CQ CQ unidentified ship bearing 190. That's right there is.
+Sevastopol looms over the city and Arzamas rises to meet us. Battle is joined. Vengeance is ours.
+Options now. We know that Soyuz and the unknown strike fleet will be coming to find us. Pick a fight with Soyuz now to keep them off of our backs? Or just press north to a repair base.
+Make sure to buy stuff at the current store.
+I just noticed N-labelled "missile carriers" to the north. Gulp.
