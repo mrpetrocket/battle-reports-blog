@@ -12,17 +12,18 @@ The enemy strike force Arzamas has been a menace to my fleet. Its cruise missile
 
 Advance. Find Arzamas. Destroy them.
 
-I believe my heavy cruiser flagship can destroy Arzamas - four light cruisers, one carrier - in a close quarters brawl. My fleet is faster than Arzamas: 110 vs 85. All I need to do is locate Arzamas, survive its initial cruise missile salvo and close to artillery range. Unfortunately, my desert wanderings did not turn up the interceptor missiles or supersonic fighters I need to hard-counter cruise missiles. I will use my fast raiding ships as a screen to bait out Arzamas' missiles; if I am careful and watch my sensors, the raiders are fast enough to evade a missile strike.
+I believe my heavy cruiser flagship can destroy Arzamas - four light cruisers, one carrier - in a close quarters brawl. My flagship is faster than Arzamas: 110 vs 85. All I need to do is locate Arzamas, survive its initial cruise missile salvo and close to artillery range. Unfortunately, my desert wanderings did not turn up the interceptor missiles or supersonic fighters I need to hard-counter cruise missiles. I will use my fast raiding ships as a screen to bait out Arzamas' missiles; if I am careful and watch my sensors, the raiders are fast enough to evade a missile strike.
 
 # Finding the Enemy
 Our friends in the desert relay to us Arzamas' last known position and course. Refueled and rearmed, we take our leave of the hospitality of the Hidden Peoples and advance north.
 
 ![Guessing Arzamas' location based on ELINT vector](/battle-reports-blog/assets/images/2023-08-24/search_for_arzamas.jpg)
-Near Kafr, my scouts report enemy radar emissions. This is no doubt Arzamas. Based on the ELINT warning vector, I believe that Arzamas is flying between Nagar and Ashod or Muchen - but my scout planes turn up nothing. Where is the enemy?
+North of Kafr, my scouts report enemy radar emissions. This is no doubt Arzamas. Based on the ELINT warning vector, I believe that Arzamas is flying between Nagar and Ashod or Muchen - but my scout planes turn up nothing. Where is the enemy?
 
 Then - thermal signatures detected by the scout force. Cruise missiles!
 
 ![Inbound missiles!](/battle-reports-blog/assets/images/2023-08-24/inbound_missiles.jpg)
+
 The scout force splits and evades. One thermal signature wanders harmlessly into the desert. The other missile explodes underneath my tanker, leaving the ship wounded but flyable.
 
 I trace the missile launches back and launch planes. My pilots find enemy aircraft and win a dogfight against superior numbers and missiles. No sooner has the celebration in the CIC quieted down then a second report crackles in: enemy in sight!
@@ -39,6 +40,7 @@ I still have one problem: distance. My slow flagship is still well behind Arzama
 But Arzamas doesn't take the bait. Either they are putting into Ashod to rearm, or they  *do* know about my main force and are running north.
 
 I decide to give Arzamas a reason to stay in port.
+
 ![Missile launch controls](/battle-reports-blog/assets/images/2023-08-24/launching_missiles.jpg)
 
 I launch four of my own cruise missiles. Three misses, one hit; my scout planes report that Arzamas' repair time has doubled. More importantly, Arzamas lands in Ashod for repairs.
@@ -49,7 +51,7 @@ My flagship enters Arzamas' radar range and I intercept a plain-text squawk from
 
 ![Message intercept from Arzamas](/battle-reports-blog/assets/images/2023-08-24/arzamas_notices_the_ambush.jpg)
 
-That's right; I'm glad you noticed, Arzamas! :smiling_imp:
+They've noticed the flagship - *too late*. :smiling_imp:
 
 # Cloudy with a Chance of One-Eighty Casings
 My flagship Sevastopol looms over the city of Ashod and Arzamas rises to meet us. Battle is joined.
